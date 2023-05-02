@@ -1,9 +1,9 @@
 # StackGAN
-- [Pytorch implementation](https://github.com/hanzhanggit/StackGAN-Pytorch)
+- [Pytorch implementation](https://github.com/KaranRocky/StackGAN-Pytorch)
 
-- [Inception score evaluation](https://github.com/hanzhanggit/StackGAN-inception-model)
+- [Inception score evaluation](https://github.com/KaranRocky/StackGAN-inception-model)
 
-- [StackGAN-v2-pytorch](https://github.com/hanzhanggit/StackGAN-v2)
+- [StackGAN-v2-pytorch](https://github.com/KaranRocky/StackGAN-v2)
 
 Tensorflow implementation for reproducing main results in the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v1.pdf) by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang,   Xiaolei Huang, Dimitris Metaxas.
 
